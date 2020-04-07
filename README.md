@@ -4,7 +4,7 @@
 
 cd ~/workspace/src/github.com/  
 
-git clone https://github.com/patharetush/pucsd2020-pp.git 
+git clone https://github.com/vaibhav2ghadge/rest-api.git 
 
 ## HOW TO COMPILE
 
