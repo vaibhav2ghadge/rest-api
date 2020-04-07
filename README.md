@@ -16,7 +16,5 @@ go build
 ./rest-api
 
 ## SENDING HTTP REQUEST
-Install curl if not already installed.  
-
-command : apt install curl
+Postman collection link https://www.getpostman.com/collections/f5b9c02ee091b5e1bec0
 
